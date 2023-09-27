@@ -1,1 +1,6 @@
-bftfybhui
+<<<<<<< HEAD
+modifier le fichier
+=======
+modifier le fichier
+
+>>>>>>> be13f2feeed0b718d3934b29e74603704025165f
